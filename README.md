@@ -36,22 +36,22 @@ Six major phases of CRISP-DM:
 
 The experiments are broken down into 6 python notebooks, each notebook will use 1 algorithm containing its own data cleaning, data preparation, feature engineering, training, testing processes.
 
-Experiment 1: [Logistic Regression](/Experiments/Logistic_Regression.ipynb)__
+Experiment 1: [Logistic Regression](/Experiments/Logistic_Regression.ipynb)\
 A popular statistical technique that is relatively simple, interpretable, flexible and computationally efficient
 
-Experiment 2: [KNN](/Experiments/KNN.ipynb)__
+Experiment 2: [KNN](/Experiments/KNN.ipynb)\
 Flexible algorithm and useful in cases where data is non-linear and/or has more complex feature relationships, although it has a higher computation cost
 
-Experiment 3: [SVC](/Experiments/SVC.ipynb)__
+Experiment 3: [SVC](/Experiments/SVC.ipynb)\
 Powerful algorithm for classification problems especially with dataset containing noisy data or complex feature relationships
 
-Experiment 4: [Decision Tree](/Experiments/DecisionTree.ipynb)__
+Experiment 4: [Decision Tree](/Experiments/DecisionTree.ipynb)\
 Useful and flexible algorithm for machine learning applications, can handle highly non-linear data or has complex feature relationships
 
-Experiment 5: [RandomForest](/Experiments/RandomForest.ipynb)__
+Experiment 5: [RandomForest](/Experiments/RandomForest.ipynb)\
 A collection of decision trees trained on different subsets of data and features. It aggregates the prediction outcomes of all individual decision trees for its final prediction, which can be computationally expensive.
 
-Experiment 6: [ExtraTrees](/Experiments/ExtraTrees.ipynb)__
+Experiment 6: [ExtraTrees](/Experiments/ExtraTrees.ipynb)\
 A variation of Random Forest aiming to reduce the model variance by increasing the randomness of individual trees, the downside is that the randomness can lead to difficulty in interpreting the model.
 
 [Detailed report](/project_summary.pdf): contains detailed summary explanation of every steps taken from business objective, data preparation, training results to final recommendation.
