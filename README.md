@@ -54,7 +54,7 @@ A collection of decision trees trained on different subsets of data and features
 Experiment 6: [ExtraTrees](/Experiments/ExtraTrees.ipynb)\
 A variation of Random Forest aiming to reduce the model variance by increasing the randomness of individual trees, the downside is that the randomness can lead to difficulty in interpreting the model.
 
-[Detailed report](/project_summary.pdf): contains detailed summary explanation of every steps taken from business objective, data preparation, training results to final recommendation.
+[Detailed report](/project_summary.pdf): contains detailed summary explanation of every steps taken from business objective, data preparation, training results to final recommendation (CRISP-DM framework).
 
 ## ⚙️ How to Setup
 
