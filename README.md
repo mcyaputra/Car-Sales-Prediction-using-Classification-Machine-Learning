@@ -36,14 +36,44 @@ Six major phases of CRISP-DM:
 
 The experiments are broken down into 6 python notebooks, each notebook will use 1 algorithm containing its own data cleaning, data preparation, feature engineering, training, testing processes.
 
-Experiment 1: [Logistic Regression](/Experiments/Logistic_Regression.ipynb)
+Experiment 1: [Logistic Regression](/Experiments/Logistic_Regression.ipynb)__
+A popular statistical technique that is relatively simple, interpretable, flexible and computationally efficient
 
-Experiment 2: [SVC](/Experiments/SVC.ipynb)
+Experiment 2: [KNN](/Experiments/KNN.ipynb)__
+Flexible algorithm and useful in cases where data is non-linear and/or has more complex feature relationships, although it has a higher computation cost
 
-Experiment 3: [KNN](/Experiments/KNN.ipynb)
+Experiment 3: [SVC](/Experiments/SVC.ipynb)__
+Powerful algorithm for classification problems especially with dataset containing noisy data or complex feature relationships
 
-Experiment 4: [Decision Tree](/Experiments/DecisionTree.ipynb)
+Experiment 4: [Decision Tree](/Experiments/DecisionTree.ipynb)__
+Useful and flexible algorithm for machine learning applications, can handle highly non-linear data or has complex feature relationships
 
-Experiment 5: [RandomForest](/Experiments/RandomForest.ipynb)
+Experiment 5: [RandomForest](/Experiments/RandomForest.ipynb)__
+A collection of decision trees trained on different subsets of data and features. It aggregates the prediction outcomes of all individual decision trees for its final prediction, which can be computationally expensive.
 
-Experiment 6: [ExtraTrees](/Experiments/ExtraTrees.ipynb)
+Experiment 6: [ExtraTrees](/Experiments/ExtraTrees.ipynb)__
+A variation of Random Forest aiming to reduce the model variance by increasing the randomness of individual trees, the downside is that the randomness can lead to difficulty in interpreting the model.
+
+[Detailed report](/project_summary.pdf): contains detailed summary explanation of every steps taken from business objective, data preparation, training results to final recommendation.
+
+## ⚙️ How to Setup
+
+1. Download the experiments (6 Python notebooks), for links, see above section (Experiments)
+2. Open the notebooks using local editor (vscode, Pycharm etc) or Jupyter notebook
+3. Run the code chunks from the top (dataset will be downloaded automatically)
+4. Analyze the results
+5. For more detailed explanation, download the detailed report and evaluation [here](/project_summary.pdf)
+
+## 👨 Feedback/Ideas? Lets connect!
+
+I would love to hear feedbacks or ideas from you! Or just simply connect and chat, feel free to contact me on:
+
+<a href="https://www.linkedin.com/in/michaelyaputra/">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+
+</a>
+
+<a href="https://github.com/mcyaputra">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+</a>
