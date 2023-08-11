@@ -36,14 +36,14 @@ Six major phases of CRISP-DM:
 
 The experiments are broken down into 6 python notebooks, each notebook will use 1 algorithm containing its own data cleaning, data preparation, feature engineering, training, testing processes.
 
-Experiment 1: [Logistic Regression]((/Univariate_Linear_Regression.ipynb))
+Experiment 1: [Logistic Regression](/Experiments/Logistic_Regression.ipynb)
 
-Experiment 2: SVC
+Experiment 2: [SVC](/Experiments/SVC.ipynb)
 
-Experiment 3: KNN
+Experiment 3: [KNN](/Experiments/KNN.ipynb)
 
-Experiment 4: Decision Tree
+Experiment 4: [Decision Tree](/Experiments/DecisionTree.ipynb)
 
-Experiment 5: RandomForest
+Experiment 5: [RandomForest](/Experiments/RandomForest.ipynb)
 
-Experiment 6: ExtraTrees
+Experiment 6: [ExtraTrees](/Experiments/ExtraTrees.ipynb)
