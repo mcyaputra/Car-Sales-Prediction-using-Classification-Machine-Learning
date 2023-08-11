@@ -21,8 +21,6 @@ Some of the techniques we will be using include:
 5. Automated hyperparameter tuning
 6. Features importance
 
-The experiments are broken down into 6 python notebooks, each notebook will use 1 algorithm containing its own data cleaning, data preparation, feature engineering, training, testing processes.
-
 We will use CRISP-DM framework to provide a more structured approach to tackle this project, properly documents every step taken and stay focused and organized on our objectives throughout the process.
 
 Six major phases of CRISP-DM:
@@ -34,3 +32,18 @@ Six major phases of CRISP-DM:
 5. Evaluation
 6. Deployment
 
+## 👩‍💻 Experiments
+
+The experiments are broken down into 6 python notebooks, each notebook will use 1 algorithm containing its own data cleaning, data preparation, feature engineering, training, testing processes.
+
+Experiment 1: [Logistic Regression]((/Univariate_Linear_Regression.ipynb))
+
+Experiment 2: SVC
+
+Experiment 3: KNN
+
+Experiment 4: Decision Tree
+
+Experiment 5: RandomForest
+
+Experiment 6: ExtraTrees
